@@ -76,5 +76,5 @@ if ( ! function_exists( 'fc_archive_text' ) ) {
  * @return bool
  */
 function fc_core_active() {
-	return defined( 'FC_CORE_VERSION' );
+	return defined( 'FC_CORE_VERSION' ) || defined( 'FC_BUILTIN' );
 }

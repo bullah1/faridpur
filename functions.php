@@ -9,6 +9,7 @@ defined( 'ABSPATH' ) || exit;
 
 define( 'FC_THEME_VERSION', '1.0.0' );
 
+require get_template_directory() . '/inc/content.php';
 require get_template_directory() . '/inc/compat.php';
 require get_template_directory() . '/inc/template-tags.php';
 require get_template_directory() . '/inc/customizer.php';
@@ -171,19 +172,6 @@ add_filter(
 			$classes[] = 'has-mobile-bar';
 		}
 		return $classes;
-	}
-);
-
-/**
- * Admin notice when the companion plugin is missing.
- */
-add_action(
-	'admin_notices',
-	static function () {
-		if ( function_exists( 'fc_meta' ) || ! current_user_can( 'activate_plugins' ) ) {
-			return;
-		}
-		echo '<div class="notice notice-warning"><p>' . esc_html__( 'Faridpur City theme: please install and activate the “Faridpur City Core” plugin. It provides notices, services, directory, events, places, banners and SEO features.', 'faridpur-city' ) . '</p></div>';
 	}
 );
 
