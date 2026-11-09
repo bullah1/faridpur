@@ -9,7 +9,10 @@ defined( 'ABSPATH' ) || exit;
 
 define( 'FC_THEME_VERSION', '1.0.0' );
 
-require get_template_directory() . '/inc/content.php';
+// Built-in content module. Skipped when the Faridpur City Core plugin is active (avoids duplicate function errors).
+if ( ! defined( 'FC_CORE_VERSION' ) ) {
+	require get_template_directory() . '/inc/content.php';
+}
 require get_template_directory() . '/inc/compat.php';
 require get_template_directory() . '/inc/template-tags.php';
 require get_template_directory() . '/inc/customizer.php';
