@@ -1,0 +1,559 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: faridpur-city\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Visiting hours"
+msgstr "পরিদর্শনের সময়"
+
+msgid "Entry fee"
+msgstr "প্রবেশ মূল্য"
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "How to get there"
+msgstr "কীভাবে যাবেন"
+
+msgid "Results for “%s”"
+msgstr "“%s”-এর ফলাফল"
+
+msgid "Search again"
+msgstr "আবার খুঁজুন"
+
+msgid ""
+"Nothing matched your search. Try a different word, or browse the sections "
+"below."
+msgstr ""
+"আপনার খোঁজার সাথে কিছু মেলেনি। অন্য শব্দে চেষ্টা করুন, অথবা নিচের বিভাগগুলো "
+"দেখুন।"
+
+msgid "Cancelled"
+msgstr "বাতিল"
+
+msgid "Postponed"
+msgstr "স্থগিত"
+
+msgid "This event has ended"
+msgstr "এই ইভেন্ট শেষ হয়েছে"
+
+msgid "When"
+msgstr "কখন"
+
+msgid "Where"
+msgstr "কোথায়"
+
+msgid "Organiser"
+msgstr "আয়োজক"
+
+msgid "Register / tickets"
+msgstr "নিবন্ধন / টিকিট"
+
+msgid "Event time"
+msgstr "ইভেন্টের সময়"
+
+msgid "Upcoming"
+msgstr "আসন্ন"
+
+msgid "Past"
+msgstr "বিগত"
+
+msgid "Nothing has been published here yet."
+msgstr "এখানে এখনো কিছু প্রকাশ করা হয়নি।"
+
+msgid "Clear filters"
+msgstr "ফিল্টার মুছুন"
+
+msgid "Related categories"
+msgstr "সম্পর্কিত ক্যাটাগরি"
+
+msgid "Updated %s"
+msgstr "হালনাগাদ %s"
+
+msgid "Source: %s"
+msgstr "সূত্র: %s"
+
+msgid "More news"
+msgstr "আরও খবর"
+
+msgid "Social links"
+msgstr "সোশ্যাল লিংক"
+
+msgid "Follow us"
+msgstr "আমাদের অনুসরণ করুন"
+
+msgid "Quick links"
+msgstr "দ্রুত লিংক"
+
+msgid "This page could not be found"
+msgstr "পেজটি খুঁজে পাওয়া যায়নি"
+
+msgid ""
+"The link may be old or mistyped. Search the portal or go to the homepage."
+msgstr "লিংকটি পুরনো বা ভুল হতে পারে। পোর্টালে খুঁজুন অথবা হোমপেজে যান।"
+
+msgid "Search the portal"
+msgstr "পোর্টালে খুঁজুন"
+
+msgid "Go to homepage"
+msgstr "হোমপেজে যান"
+
+msgid "Urgent"
+msgstr "জরুরি"
+
+msgid "Download attachment"
+msgstr "সংযুক্তি ডাউনলোড করুন"
+
+msgid "Primary menu"
+msgstr "প্রধান মেনু"
+
+msgid "Mobile bottom bar (up to 5 items)"
+msgstr "মোবাইলের নিচের বার (সর্বোচ্চ ৫টি)"
+
+msgid "Footer column 1"
+msgstr "ফুটার কলাম ১"
+
+msgid "Footer column 2"
+msgstr "ফুটার কলাম ২"
+
+msgid "Useful links (homepage)"
+msgstr "প্রয়োজনীয় লিংক (হোমপেজ)"
+
+msgid "Open menu"
+msgstr "মেনু খুলুন"
+
+msgid "Close menu"
+msgstr "মেনু বন্ধ করুন"
+
+msgid "Map"
+msgstr "ম্যাপ"
+
+msgid "Slide %1$s of %2$s"
+msgstr "স্লাইড %1$s / %2$s"
+
+msgid ""
+"Faridpur City theme: please install and activate the “Faridpur City Core” "
+"plugin. It provides notices, services, directory, events, places, banners "
+"and SEO features."
+msgstr ""
+"ফরিদপুর সিটি থিম: অনুগ্রহ করে “Faridpur City Core” প্লাগইন ইনস্টল ও সক্রিয় "
+"করুন। নোটিশ, সেবা, ডিরেক্টরি, ইভেন্ট, স্থান, ব্যানার ও SEO ফিচার এই প্লাগইনে"
+" আছে।"
+
+msgid "Page %s"
+msgstr "পেজ %s"
+
+msgid "Search"
+msgstr "খুঁজুন"
+
+msgid "Search for"
+msgstr "খুঁজুন"
+
+msgid "Services, organisations, news…"
+msgstr "সেবা, প্রতিষ্ঠান, খবর…"
+
+msgid "Skip to content"
+msgstr "মূল অংশে যান"
+
+msgid "Date and quick links"
+msgstr "তারিখ ও দ্রুত লিংক"
+
+msgid "Emergency numbers"
+msgstr "জরুরি নম্বর"
+
+msgid "Main menu"
+msgstr "প্রধান মেনু"
+
+msgid "Menu"
+msgstr "মেনু"
+
+msgid "Assign a menu to “Primary menu”."
+msgstr "“প্রধান মেনু” অবস্থানে একটি মেনু নির্ধারণ করুন।"
+
+msgid "Site search"
+msgstr "সাইটে খুঁজুন"
+
+msgid "No emergency services have been added yet."
+msgstr "এখনো কোনো জরুরি সেবা যোগ করা হয়নি।"
+
+msgid "Photos"
+msgstr "ছবি"
+
+msgid "About"
+msgstr "পরিচিতি"
+
+msgid "Opening hours"
+msgstr "খোলার সময়"
+
+msgid "Open 24 hours, every day."
+msgstr "প্রতিদিন ২৪ ঘণ্টা খোলা।"
+
+msgid "Closed"
+msgstr "বন্ধ"
+
+msgid "Information last checked: %s"
+msgstr "তথ্য সর্বশেষ যাচাই: %s"
+
+msgid "Official source"
+msgstr "দাপ্তরিক সূত্র"
+
+msgid "Report wrong information"
+msgstr "ভুল তথ্য জানান"
+
+msgid "Contact"
+msgstr "যোগাযোগ"
+
+msgid "Call"
+msgstr "কল করুন"
+
+msgid "Phone"
+msgstr "ফোন"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+msgid "Facebook page"
+msgstr "ফেসবুক পেজ"
+
+msgid "Similar nearby"
+msgstr "কাছাকাছি একই ধরনের"
+
+msgid "Directions"
+msgstr "দিকনির্দেশ"
+
+msgid "Filter"
+msgstr "ফিল্টার"
+
+msgid "Area"
+msgstr "এলাকা"
+
+msgid "All areas"
+msgstr "সব এলাকা"
+
+msgid "Open 24 hours"
+msgstr "২৪ ঘণ্টা খোলা"
+
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+msgid "Clear"
+msgstr "মুছুন"
+
+msgid "Subcategories"
+msgstr "উপ-ক্যাটাগরি"
+
+msgid "Location"
+msgstr "অবস্থান"
+
+msgid "Show map"
+msgstr "ম্যাপ দেখুন"
+
+msgid "The map loads from Google Maps when you click."
+msgstr "ক্লিক করলে Google Maps থেকে ম্যাপ লোড হবে।"
+
+msgid "Open in Google Maps"
+msgstr "Google Maps-এ খুলুন"
+
+msgid "(opens in a new tab)"
+msgstr "(নতুন ট্যাবে খুলবে)"
+
+msgid "Call %1$s: %2$s"
+msgstr "%1$s-এ কল করুন: %2$s"
+
+msgid "Ended"
+msgstr "শেষ"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "Business directory"
+msgstr "ব্যবসা ও প্রতিষ্ঠান ডিরেক্টরি"
+
+msgid "Full directory"
+msgstr "পুরো ডিরেক্টরি"
+
+msgid "Directory categories"
+msgstr "ডিরেক্টরির ক্যাটাগরি"
+
+msgid "City services"
+msgstr "নাগরিক সেবা"
+
+msgid "All services"
+msgstr "সব সেবা"
+
+msgid "Useful links"
+msgstr "প্রয়োজনীয় লিংক"
+
+msgid "Emergency services"
+msgstr "জরুরি ও প্রয়োজনীয় সেবা"
+
+msgid "Tap a number to call."
+msgstr "নম্বরে ট্যাপ করলেই সরাসরি কল।"
+
+msgid "All emergency numbers"
+msgstr "সব জরুরি নম্বর"
+
+msgid "Notices"
+msgstr "নোটিশ"
+
+msgid "All notices"
+msgstr "সব নোটিশ"
+
+msgid "Places and events"
+msgstr "দর্শনীয় স্থান ও ইভেন্ট"
+
+msgid "Places to visit"
+msgstr "দর্শনীয় স্থান"
+
+msgid "All places"
+msgstr "সব স্থান"
+
+msgid "Upcoming events"
+msgstr "আসন্ন ইভেন্ট"
+
+msgid "All events"
+msgstr "সব ইভেন্ট"
+
+msgid "carousel"
+msgstr "ক্যারোসেল"
+
+msgid "Featured"
+msgstr "বিশেষ"
+
+msgid "slide"
+msgstr "স্লাইড"
+
+msgid "Previous slide"
+msgstr "আগের স্লাইড"
+
+msgid "Next slide"
+msgstr "পরের স্লাইড"
+
+msgid "Latest news"
+msgstr "সর্বশেষ খবর"
+
+msgid "All news"
+msgstr "সব খবর"
+
+msgid "Move %s up"
+msgstr "%s উপরে নিন"
+
+msgid "Move %s down"
+msgstr "%s নিচে নিন"
+
+msgid "Faridpur City"
+msgstr "ফরিদপুর সিটি"
+
+msgid "Language & header"
+msgstr "ভাষা ও হেডার"
+
+msgid "Interface language"
+msgstr "ইন্টারফেসের ভাষা"
+
+msgid "Show dates and numbers in Bangla digits"
+msgstr "তারিখ ও সংখ্যা বাংলা অঙ্কে দেখান"
+
+msgid "Show top bar with date"
+msgstr "তারিখসহ উপরের বার দেখান"
+
+msgid "Top bar link label"
+msgstr "উপরের বারের লিংকের লেখা"
+
+msgid "Top bar link URL"
+msgstr "উপরের বারের লিংক URL"
+
+msgid "Other-language link label (e.g. EN)"
+msgstr "অন্য ভাষার লিংকের লেখা (যেমন EN)"
+
+msgid "Other-language link URL (leave empty to hide)"
+msgstr "অন্য ভাষার লিংক URL (লুকাতে ফাঁকা রাখুন)"
+
+msgid "“Report wrong information” link URL"
+msgstr "“ভুল তথ্য জানান” লিংক URL"
+
+msgid "Homepage sections"
+msgstr "হোমপেজের সেকশন"
+
+msgid ""
+"Banners, notices, services, news and listings are managed from their own "
+"admin menus. Here you choose which sections appear, their order, headings "
+"and how many items they show."
+msgstr ""
+"ব্যানার, নোটিশ, সেবা, খবর ও তালিকা নিজ নিজ অ্যাডমিন মেনু থেকে পরিচালিত হয়। "
+"এখানে কোন সেকশন দেখাবে, ক্রম, শিরোনাম ও কয়টি আইটেম দেখাবে তা ঠিক করুন।"
+
+msgid "Sections and order"
+msgstr "সেকশন ও ক্রম"
+
+msgid "Drag or use the arrows to reorder. Untick to hide."
+msgstr "টেনে বা তীর চিহ্ন দিয়ে ক্রম বদলান। লুকাতে টিক তুলে দিন।"
+
+msgid "Places"
+msgstr "দর্শনীয় স্থান"
+
+msgid "Events"
+msgstr "ইভেন্ট"
+
+msgid "%s — heading"
+msgstr "%s — শিরোনাম"
+
+msgid "Leave empty for the default."
+msgstr "ডিফল্ট রাখতে ফাঁকা রাখুন।"
+
+msgid "%s — subtitle"
+msgstr "%s — সাবটাইটেল"
+
+msgid "Number of service categories"
+msgstr "সেবা ক্যাটাগরির সংখ্যা"
+
+msgid "Number of news items"
+msgstr "খবরের সংখ্যা"
+
+msgid "Number of directory listings"
+msgstr "ডিরেক্টরি তালিকার সংখ্যা"
+
+msgid "Number of emergency services"
+msgstr "জরুরি সেবার সংখ্যা"
+
+msgid "Number of places"
+msgstr "স্থানের সংখ্যা"
+
+msgid "Number of events"
+msgstr "ইভেন্টের সংখ্যা"
+
+msgid "Footer & contact"
+msgstr "ফুটার ও যোগাযোগ"
+
+msgid "Short description"
+msgstr "সংক্ষিপ্ত পরিচিতি"
+
+msgid "Copyright line"
+msgstr "কপিরাইট লাইন"
+
+msgid "Hero banner"
+msgstr "প্রধান ব্যানার"
+
+msgid "Places & events"
+msgstr "স্থান ও ইভেন্ট"
+
+msgid "See all"
+msgstr "সব দেখুন"
+
+msgid "Open now"
+msgstr "এখন খোলা"
+
+msgid "Closed now"
+msgstr "এখন বন্ধ"
+
+msgid "Previous"
+msgstr "আগের"
+
+msgid "Next"
+msgstr "পরের"
+
+msgid "Page"
+msgstr "পেজ"
+
+msgid "Pages"
+msgstr "পেজসমূহ"
+
+msgid "News"
+msgstr "খবর"
+
+msgid "Notice"
+msgstr "নোটিশ"
+
+msgid "Public service"
+msgstr "নাগরিক সেবা"
+
+msgid "Directory"
+msgstr "ডিরেক্টরি"
+
+msgid "Event"
+msgstr "ইভেন্ট"
+
+msgid "Place"
+msgstr "স্থান"
+
+msgid ""
+"The “Faridpur City Core” plugin is not active. Activate it under Plugins to "
+"use this section."
+msgstr ""
+"“Faridpur City Core” প্লাগইন সক্রিয় নেই। এই সেকশন ব্যবহার করতে Plugins থেকে"
+" এটি Activate করুন।"
+
+msgid "Open Plugins"
+msgstr "Plugins খুলুন"
+
+msgid ""
+"Add a notice under Notices → Add new. Notices past their “Hide from homepage"
+" after” date are not shown."
+msgstr ""
+"নোটিশ → Add new থেকে নোটিশ যোগ করুন। “হোমপেজ থেকে সরানোর তারিখ” পার হয়ে "
+"গেলে নোটিশ দেখায় না।"
+
+msgid ""
+"Add a service under Public services → Add new, or create categories under "
+"Public services → Service categories. Tick the category on the right side of"
+" each service."
+msgstr ""
+"Public services → Add new থেকে একটি সেবা যোগ করুন, অথবা Public services → "
+"Service categories থেকে ক্যাটাগরি তৈরি করুন। প্রতিটি সেবার ডান পাশে "
+"ক্যাটাগরি টিক দিন।"
+
+msgid "Publish a post under Posts → Add New."
+msgstr "Posts → Add New থেকে একটি খবর প্রকাশ করুন।"
+
+msgid ""
+"Publish a business under Directory → Add new. Tick “Show on homepage” on "
+"business categories to show them as chips."
+msgstr ""
+"Directory → Add new থেকে একটি প্রতিষ্ঠান প্রকাশ করুন। ক্যাটাগরিগুলো দেখাতে "
+"Business categories-এ “Show on homepage” টিক দিন।"
+
+msgid ""
+"Open a public service, tick “Emergency service” and add a phone number."
+msgstr ""
+"একটি নাগরিক সেবা খুলে “Emergency service” টিক দিন এবং ফোন নম্বর যোগ করুন।"
+
+msgid ""
+"Publish a place (Places → Add new) or an upcoming event with a start date "
+"(Events → Add new)."
+msgstr ""
+"একটি স্থান (Places → Add new) অথবা শুরুর তারিখসহ একটি আসন্ন ইভেন্ট (Events →"
+" Add new) প্রকাশ করুন।"
+
+msgid "Create a menu and assign it to the “Useful links (homepage)” location."
+msgstr "একটি মেনু তৈরি করে “Useful links (homepage)” লোকেশনে দিন।"
+
+msgid "Add content"
+msgstr "কনটেন্ট যোগ করুন"
+
+msgid "“%s” section is empty"
+msgstr "“%s” সেকশন খালি"
+
+msgid "Only logged-in editors see this box."
+msgstr "এই বক্সটি শুধু লগইন করা এডিটররা দেখতে পান।"
+
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] "%sটি ফলাফল"
+msgstr[1] "%sটি ফলাফল"
+
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%sটি আইটেম"
+msgstr[1] "%sটি আইটেম"
+
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] "%sটি তালিকা"
+msgstr[1] "%sটি তালিকা"

@@ -1,0 +1,539 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: faridpur-city\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Visiting hours"
+msgstr ""
+
+msgid "Entry fee"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "How to get there"
+msgstr ""
+
+msgid "Results for “%s”"
+msgstr ""
+
+msgid "Search again"
+msgstr ""
+
+msgid ""
+"Nothing matched your search. Try a different word, or browse the sections "
+"below."
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Postponed"
+msgstr ""
+
+msgid "This event has ended"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid "Where"
+msgstr ""
+
+msgid "Organiser"
+msgstr ""
+
+msgid "Register / tickets"
+msgstr ""
+
+msgid "Event time"
+msgstr ""
+
+msgid "Upcoming"
+msgstr ""
+
+msgid "Past"
+msgstr ""
+
+msgid "Nothing has been published here yet."
+msgstr ""
+
+msgid "Clear filters"
+msgstr ""
+
+msgid "Related categories"
+msgstr ""
+
+msgid "Updated %s"
+msgstr ""
+
+msgid "Source: %s"
+msgstr ""
+
+msgid "More news"
+msgstr ""
+
+msgid "Social links"
+msgstr ""
+
+msgid "Follow us"
+msgstr ""
+
+msgid "Quick links"
+msgstr ""
+
+msgid "This page could not be found"
+msgstr ""
+
+msgid ""
+"The link may be old or mistyped. Search the portal or go to the homepage."
+msgstr ""
+
+msgid "Search the portal"
+msgstr ""
+
+msgid "Go to homepage"
+msgstr ""
+
+msgid "Urgent"
+msgstr ""
+
+msgid "Download attachment"
+msgstr ""
+
+msgid "Primary menu"
+msgstr ""
+
+msgid "Mobile bottom bar (up to 5 items)"
+msgstr ""
+
+msgid "Footer column 1"
+msgstr ""
+
+msgid "Footer column 2"
+msgstr ""
+
+msgid "Useful links (homepage)"
+msgstr ""
+
+msgid "Open menu"
+msgstr ""
+
+msgid "Close menu"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Slide %1$s of %2$s"
+msgstr ""
+
+msgid ""
+"Faridpur City theme: please install and activate the “Faridpur City Core” "
+"plugin. It provides notices, services, directory, events, places, banners "
+"and SEO features."
+msgstr ""
+
+msgid "Page %s"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for"
+msgstr ""
+
+msgid "Services, organisations, news…"
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Date and quick links"
+msgstr ""
+
+msgid "Emergency numbers"
+msgstr ""
+
+msgid "Main menu"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Assign a menu to “Primary menu”."
+msgstr ""
+
+msgid "Site search"
+msgstr ""
+
+msgid "No emergency services have been added yet."
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Opening hours"
+msgstr ""
+
+msgid "Open 24 hours, every day."
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Information last checked: %s"
+msgstr ""
+
+msgid "Official source"
+msgstr ""
+
+msgid "Report wrong information"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Facebook page"
+msgstr ""
+
+msgid "Similar nearby"
+msgstr ""
+
+msgid "Directions"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "All areas"
+msgstr ""
+
+msgid "Open 24 hours"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Subcategories"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Show map"
+msgstr ""
+
+msgid "The map loads from Google Maps when you click."
+msgstr ""
+
+msgid "Open in Google Maps"
+msgstr ""
+
+msgid "(opens in a new tab)"
+msgstr ""
+
+msgid "Call %1$s: %2$s"
+msgstr ""
+
+msgid "Ended"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Business directory"
+msgstr ""
+
+msgid "Full directory"
+msgstr ""
+
+msgid "Directory categories"
+msgstr ""
+
+msgid "City services"
+msgstr ""
+
+msgid "All services"
+msgstr ""
+
+msgid "Useful links"
+msgstr ""
+
+msgid "Emergency services"
+msgstr ""
+
+msgid "Tap a number to call."
+msgstr ""
+
+msgid "All emergency numbers"
+msgstr ""
+
+msgid "Notices"
+msgstr ""
+
+msgid "All notices"
+msgstr ""
+
+msgid "Places and events"
+msgstr ""
+
+msgid "Places to visit"
+msgstr ""
+
+msgid "All places"
+msgstr ""
+
+msgid "Upcoming events"
+msgstr ""
+
+msgid "All events"
+msgstr ""
+
+msgid "carousel"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "slide"
+msgstr ""
+
+msgid "Previous slide"
+msgstr ""
+
+msgid "Next slide"
+msgstr ""
+
+msgid "Latest news"
+msgstr ""
+
+msgid "All news"
+msgstr ""
+
+msgid "Move %s up"
+msgstr ""
+
+msgid "Move %s down"
+msgstr ""
+
+msgid "Faridpur City"
+msgstr ""
+
+msgid "Language & header"
+msgstr ""
+
+msgid "Interface language"
+msgstr ""
+
+msgid "Show dates and numbers in Bangla digits"
+msgstr ""
+
+msgid "Show top bar with date"
+msgstr ""
+
+msgid "Top bar link label"
+msgstr ""
+
+msgid "Top bar link URL"
+msgstr ""
+
+msgid "Other-language link label (e.g. EN)"
+msgstr ""
+
+msgid "Other-language link URL (leave empty to hide)"
+msgstr ""
+
+msgid "“Report wrong information” link URL"
+msgstr ""
+
+msgid "Homepage sections"
+msgstr ""
+
+msgid ""
+"Banners, notices, services, news and listings are managed from their own "
+"admin menus. Here you choose which sections appear, their order, headings "
+"and how many items they show."
+msgstr ""
+
+msgid "Sections and order"
+msgstr ""
+
+msgid "Drag or use the arrows to reorder. Untick to hide."
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "%s — heading"
+msgstr ""
+
+msgid "Leave empty for the default."
+msgstr ""
+
+msgid "%s — subtitle"
+msgstr ""
+
+msgid "Number of service categories"
+msgstr ""
+
+msgid "Number of news items"
+msgstr ""
+
+msgid "Number of directory listings"
+msgstr ""
+
+msgid "Number of emergency services"
+msgstr ""
+
+msgid "Number of places"
+msgstr ""
+
+msgid "Number of events"
+msgstr ""
+
+msgid "Footer & contact"
+msgstr ""
+
+msgid "Short description"
+msgstr ""
+
+msgid "Copyright line"
+msgstr ""
+
+msgid "Hero banner"
+msgstr ""
+
+msgid "Places & events"
+msgstr ""
+
+msgid "See all"
+msgstr ""
+
+msgid "Open now"
+msgstr ""
+
+msgid "Closed now"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Notice"
+msgstr ""
+
+msgid "Public service"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Place"
+msgstr ""
+
+msgid ""
+"The “Faridpur City Core” plugin is not active. Activate it under Plugins to "
+"use this section."
+msgstr ""
+
+msgid "Open Plugins"
+msgstr ""
+
+msgid ""
+"Add a notice under Notices → Add new. Notices past their “Hide from homepage"
+" after” date are not shown."
+msgstr ""
+
+msgid ""
+"Add a service under Public services → Add new, or create categories under "
+"Public services → Service categories. Tick the category on the right side of"
+" each service."
+msgstr ""
+
+msgid "Publish a post under Posts → Add New."
+msgstr ""
+
+msgid ""
+"Publish a business under Directory → Add new. Tick “Show on homepage” on "
+"business categories to show them as chips."
+msgstr ""
+
+msgid ""
+"Open a public service, tick “Emergency service” and add a phone number."
+msgstr ""
+
+msgid ""
+"Publish a place (Places → Add new) or an upcoming event with a start date "
+"(Events → Add new)."
+msgstr ""
+
+msgid "Create a menu and assign it to the “Useful links (homepage)” location."
+msgstr ""
+
+msgid "Add content"
+msgstr ""
+
+msgid "“%s” section is empty"
+msgstr ""
+
+msgid "Only logged-in editors see this box."
+msgstr ""
+
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] ""
+msgstr[1] ""
